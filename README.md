@@ -1,6 +1,6 @@
 # iriscode
 
-A portable OSIRIS V4.1.
+A portable OSIRIS V4.1, works on unix-like systems.
 
 We first compile it in a docker and then copy those dependencies.
 
