@@ -4,6 +4,9 @@ A portable OSIRIS V4.1.
 
 We first compile it in a docker and then copy those dependencies.
 
+- remember to link those libs, see ``LD.sh``
+- we correct the word case, i.e. ``CASIA-iRISv2`` => ``CASIA-IrisV2``
+- we use dos2unix to remove \r in ``process.ini`` and ``process_CASIA-IrisV2.txt``
 
 ## Acknowledge
 
